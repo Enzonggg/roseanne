@@ -5,8 +5,8 @@
   "type": "module",
   "homepage": "https://rchll-16.github.io/my-portfolio/",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
