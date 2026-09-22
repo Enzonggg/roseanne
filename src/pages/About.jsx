@@ -39,7 +39,7 @@ const About = () => {
           className="text-zinc-600 leading-relaxed mb-6"
           style={{ fontFamily: 'satoshi-medium' }}
         >
-          Hi! I'm <span className="font-semibold text-stone-800">Roseanne Faith Frankie</span>, a passionate <span className="font-semibold text-stone-800">Graphic Designer</span> focused on creating visually compelling and meaningful designs that connect with people.
+          Hi! I'm <span className="font-semibold text-stone-800">Roseanne Faith Frankie</span>, a passionate <span className="font-semibold text-stone-800">UI/UX Designer</span> focused on creating visually compelling and meaningful designs that connect with people.
         </p>
         <p
           className="text-zinc-600 leading-relaxed mb-6"
